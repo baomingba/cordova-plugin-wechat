@@ -1,6 +1,14 @@
+# Issues fixed here
+
+- Fixed crash issue caused by `nil` value of `lang` and `country` when login with wechat in iPhone 6 **[[PR](https://github.com/xu-li/cordova-plugin-wechat/pull/15) accepted]** 
+
+---
+
+
 # cordova-plugin-wechat
 
 A cordova plugin, a JS version of Wechat SDK
+
 
 # Feature
 
